@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img src="../assets/yo.png" alt="Thumbs up from your homie">
+    <img src="../assets/img/yo.png" alt="Thumbs up from your homie">
     <div>
       <h2>Jim Dechant</h2>
       <div>Software Developer</div>
